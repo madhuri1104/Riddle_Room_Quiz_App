@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Riddle Room</string>
+    <string name="true_btn">TRUE</string>
+    <string name="false_btn">FALSE</string>
+
+    <string name="question_1">Kabhi Khushi Kabhi Gum was Hritik\'s First movie.</string>
+     <string name="question_2">Superman\'s first name is Clerk. </string>
+    <string name="question_3">Basanti\'s Horse name was Dhano in Sholay </string>
+    <string name="question_4">Jadoo is in Kal Ho na ho.  </string>
+    <string name="question_5">Hungama is romantic movie.   </string>
+    <string name="question_6">Amir Khan is lead actor in Lagan. </string>
+    <string name="question_7">Ved movie released in 2020. </string>
+    <string name="question_8">Ritesh and Jenelia are real couple. </string>
+    <string name="question_9">DDLJ lead actor is Salman </string>
+    <string name="question_10">DDLJ lead actress is Kajol.  </string>
+    <string name="question_11">H2O is Water.  </string>
+    <string name="question_12">Sharks are categorized as mammals.   </string>
+    <string name="question_13">The blue whale is the biggest known animal to have ever existed.  </string>
+    <string name="question_14">Pigs don’t like being cleaned and hence they roll in the mud.  </string>
+    <string name="question_15">Thermometer used to measure humidity.  </string>
+    <string name="question_16">An ant can lift 2000 times its body weight.  </string>
+    <string name="question_17">Thermometer is used to measure temperature.  </string>
+    <string name="question_18">CO is carbon dioxide  </string>
+    <string name="question_19">Two dimensions can be seen in a hologram.  </string>
+    <string name="question_20">H is oxygen  </string>
+
+    <string name="question_21">Superman is the superhero that is also known as the “Man of Steel"  </string>
+    <string name="question_22">2009 year was the first Iron Movie released  </string>
+    <string name="question_23">Caley is Batman’s real name  </string>
+    <string name="question_24">Quicksilver is the superhero twin brother of Scarlet Witch  </string>
+    <string name="question_25">Kryptonite  is Superman’s weakness.  </string>
+    <string name="question_26">Leo Chill killed Thomas and Martha Wayne  </string>
+    <string name="question_27">In the Spider-man movie, Uncle Ben said to Peter “With great power, comes great Responsibility” </string>
+    <string name="question_28">Hippolyta  is the name of Wonder Woman’s mother  </string>
+    <string name="question_29">Martin is the villain of ‘Thor: The Dark World </string>
+    <string name="question_30"> Captain America has an indestructible shield  </string>
+
+</resources>
